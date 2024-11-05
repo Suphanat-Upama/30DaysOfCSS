@@ -21,7 +21,7 @@ a {
 
 a:before {
 	content: 'By Raquel Limâ ❤️';
-	color:#FBAD60;
+	color:black;
 	background-color:#F8DEBE;
 	display: flex;
 	align-items: center;
